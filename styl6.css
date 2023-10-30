@@ -1,0 +1,56 @@
+#baner { 
+background-color: #4E885C;
+color:orange;
+text-align: center;
+height:110px;
+font-size: 40px;
+}
+#lewy {
+	background-color: #72A37D;
+	width:30%;
+	height:300px;
+	float:left;
+	
+}
+#srodkowy {
+	background-color: #A2C3A9;
+	width:40%;
+	height:300px;
+	
+	float:left;
+	
+}
+#prawy {
+	
+	background-color: #72A37D;
+	text-align:center;
+	width:30%;
+	height:300px;
+	float:right;
+	
+}
+#pizza {
+	margin:right;
+}
+
+#oferta {
+	margin:auto;
+	background-color: orange;
+	margin:center;
+	text-align:center;
+	width:30%;
+	height:8%;
+}
+#dolny {
+	background-color: #A2C3A9;
+	text-align:center;
+	height:250px;
+	
+	clear:both;
+}
+#stopka {
+	background-color:#4E885C;
+	color:orange;
+	width:100%;
+	float:left;
+}
